@@ -5,4 +5,4 @@
 #profile-web-page-url: https://github.com/yourusername
 #Proxies
 vless://1@1:1
-vless://1@1:1
+vless://414d21be-5b28-4f48-9a26-c7609fe6602c@192.168.1.109:6767?type=tcp&encryption=none&flow=xtls-rprx-vision&security=reality&pbk=jMtuT2uApH4sLuVg7Q84qWRpRmibejHlnnHMQaaNRzw&sid=88&sni=yandex.ru&fp=chrome#VLESS+Reality+Yandex
